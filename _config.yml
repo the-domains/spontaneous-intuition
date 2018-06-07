@@ -1,0 +1,33 @@
+name: spontaneous intuition
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.13684244127944112
+color:
+  lightness: 0.429804396815598
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  saturation: 0.2109228647314012
+  brandStrength: 0.07085713814012706
+  rhythmicContrast: 0.04624997661449015
+content_rating:
+  adult: false
+typography_spectrum: 0.24121542554348707
+opengraph: {}
