@@ -1,17 +1,18 @@
 ---
-publisher: {}
-dateModified: '2018-06-07T18:44:19.302Z'
+publisher:
+  name: MLB.com
+dateModified: '2018-06-07T18:51:39.581Z'
 via: {}
 description: Imagine the furor if they actually discovered that Babe only hit 713.
 title: Did Babe Ruth hit 715 homers?
 inFeed: true
 author: []
-datePublished: '2018-06-07T18:44:57.350Z'
-starred: true
-datePublishedOriginal: '2018-06-07T18:44:57.350Z'
+datePublished: '2018-06-07T18:51:40.005Z'
 isBasedOnUrl: >-
   http://mlb.com/r/article?ymd=20180607&content_id=280173404&vkey=news_mlb&c_id=mlb
 sourcePath: _posts/2018-06-07-did-babe-ruth-hit-715-homers.md
+starred: true
+datePublishedOriginal: '2018-06-07T18:44:57.350Z'
 _type: MediaObject
 
 ---
